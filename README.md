@@ -1,1 +1,1 @@
-# Propositional-Logic-DiscreteMathematics-Research
+# Propositional-Logic-DiscreteMathematicsResearch
